@@ -1,0 +1,10 @@
+{
+    "Name": "Better Skull Cave",
+    "Author": "Shasha",
+    "Version": "2.0.0",
+    "Description": "Makes the Skull Cavern floor counter easier to read, replaces hat treasures with useful items, and stops shaft falls from skipping whole-hundred treasure floors.",
+    "UniqueID": "Shasha.BetterSkullCave",
+    "EntryDll": "BetterSkullCave.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
